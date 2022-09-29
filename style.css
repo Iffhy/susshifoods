@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&family=Mulish:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.home_text h1{
+font-weight: 90;
+font-size: 60px;
+padding-bottom: 20px;
+
+}
+.home_text p{
+    padding-bottom: 30px;
+}
+#one{
+    background-image: url(images/./restaurant\ 1.png);
+    font-family: 'Mulish', sans-serif;
+
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: ;
+    height: 100vh;
+    overflow: hidden;
+    background-size: cover;
+}
+
+.home{
+    align-items: center;
+    
+    padding-top: 300px;
+    display:flex;
+    justify-content: center;
+    
+}
+.home .home_text p{
+    font-size: 25px;
+    
+}
+.home_text{
+    text-align: center;
+    
+}
+.home .home_text{
+    color: #fff;
+    
+    align-items: center;
+    justify-content: center;
+}
+.menu:hover{
+    transform: translate(12px,-12px);
+}
+.cart:hover{
+   transform: translate(12px,-12px);
+
+}
+button{
+    width: 250px;
+    height: 75px;
+    cursor: pointer;
+    font-size: 25px;
+    margin: 10px;
+    transition: 0.4s ease;
+    
+    font-weight: 70;
+}
+#two h1{
+text-decoration: none ;
+border-bottom: solid rgba(255, 218, 185, 0.973) ;
+margin-top: 25px;
+
+color: #000000;
+position: absolute;
+width: 306px;
+height: 63px;
+margin-left: 200px;
+font-family: 'Mulish'; 
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 63px;
+}
+#two{
+    background-color:#FFFFFF;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+
+#conainer{
+    display:flex ;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.sidenav{
+box-sizing: border-box;
+position: ;
+width: 132px;
+height: 852px;
+margin-left: 30px;
+background-color:#0C0B0B;
+border-radius: 24px;
+margin-bottom: 70px;
+margin-top: 30px;
+box-shadow: #000000
+
+}
+ li{
+    position:;
+    width:51px;
+    height: 102px;
+    left: 99.12px;
+    top: 58.65px;
+    font-family:'Baloo Bhai' ;
+    font-style: normal;
+     font-weight:400 ;
+     font-size:64px;
+     line-height: 102px;
+     color:#F1D5BB ;
+     list-style: none;
+     padding-left: 40px;
+     padding-right: 40px;
+     padding-top: 35px;
+     
+}
+#S a{
+    color: #F1D5BB;
+    text-decoration: none;
+}
+
+#spoon {
+    background-color: #F1D5BB;
+    padding-right: 40px;
+    top: 34.3%;
+    right: 90.35%;
+    bottom: 61.7%;
+
+}
+
+#spoon:hover{
+    color: #F1D5BB;
+}
+
+.rec_3 {
+    width: 98%;
+    height: 652px;
+    position: absolute;
+    top: 243px;
+    margin-left: 120px;
+    margin-top: -140px;
+
+}
+#items{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 652px;
+    top: 154px;
+    padding: 25px;
+    margin-left: 20px;
+}
+.foods{
+    width: 234px;
+    height: 275px;
+    cursor: pointer;
+    margin-left: 50px;
+}
+.line1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+padding-bottom: 80px;
+
+}
+.line2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+span{
+    margin: 50px;
+    font-style: normal;
+    font-size: 20px;
+     font-family:'Mulish', sans-serif ;
+     line-height: 25px;
+     font-weight:500;
+}
+.line2 #B{
+    margin: 85px;
+}
+.line2 #A{
+    margin: 40px;
+}
+.line1 #P{
+    margin: 70px;
+}
+ .line1 #H{
+margin: 30px;
+    
+ }
+ .foods :hover{
+    transition: 0.4s ease;
+    transform: translate(12px , 12px );
+ }
+ #bttn{
+     margin-left: 600px;
+     margin-top: -150px;
+     width: 194px;
+ }
+ #btn{
+    background-color: #000000;
+    color: #ffffff;
+    width: 194px;
+    height: 54px;
+    border-radius: 2px;
+    font-size: 20px;
+line-height: 25.1px;
+font-weight: 300;
+border-style: none;
+font-family:'Mulish' ;
+ }
+ footer{
+    margin-top: 50px;
+    font-family:'Mulish' ;
+    font-weight: 600;
+    font-size: 15px;
+    margin-left: 200px;
+ }

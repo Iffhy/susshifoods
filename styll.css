@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&family=Mulish:wght@300&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    overflow: hidden;
+}
+h1{
+    text-decoration: none ;
+border-bottom: solid rgba(255, 218, 185, 0.973) ;
+margin-top: 25px;
+
+color: #000000;
+position: absolute;
+width: 135px;
+height: 63px;
+margin-left: 240px;
+font-family: 'Mulish'; 
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 63px;
+}
+.sidenav{
+    box-sizing: border-box;
+    position: ;
+    width: 132px;
+    height: 1000px;
+    margin-left: 30px;
+    background-color:#0C0B0B;
+    border-radius: 24px;
+    margin-bottom: 70px;
+    margin-top: 30px;
+    box-shadow: #000000;
+}
+li{
+    position:;
+    width:51px;
+    height: 102px;
+    left: 99.12px;
+    top: 58.65px;
+    font-family:'Baloo Bhai' ;
+    font-style: normal;
+     font-weight:400 ;
+     font-size:64px;
+     line-height: 102px;
+     color:#F1D5BB ;
+     list-style: none;
+     padding-left: 40px;
+     padding-right: 40px;
+     padding-top: 35px;
+     
+}
+#S a{
+    color: #F1D5BB;
+    text-decoration: none;
+}
+
+#spoon {
+    
+    padding-right: 40px;
+    top: 34.3%;
+    right: 90.35%;
+    bottom: 61.7%;
+
+}
+#cart{
+    background-color: #F1D5BB;
+    cursor: pointer;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    
+}
+.box1{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 50px;
+    background-color: #F1D5BB;
+    width: 53%;
+    height: 80vh;
+}
+#images .no{
+    border-radius: 50%;
+    width:120px;
+    height: 120px;
+    padding-bottom: -140px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+ .box1 #text{
+    font-size: 35px;
+    font-family: 'Mulish';
+    
+    
+    padding-bottom: -170px;
+margin-top:40px;
+margin-left: 20px;
+font-weight: 600;
+line-height: 130px;
+}
+p{
+    line-height: 25px;
+    font-weight: 400;
+}
+#something{
+    line-height: 150px;
+    margin-top: 45px;
+    margin-left: 120px;
+    margin-bottom: 120px;
+    word-spacing: 6px;
+}
+#something .na{
+    background-color:#ffffff;
+    border: 15px solid #ffffff;
+    position: relative;
+    top: 20px;
+}
+.box1 #path{
+    line-height: 160px;
+    margin-left: 150px;
+    margin-top: 45px;
+}
+ 
+.box2{
+    width: 40%;
+    margin-top:150px;
+    margin-left: 40px;
+    height:80vh;
+    border: 1px solid #F1D5BB;
+    margin-bottom: 40px;
+    padding-bottom: 150px;
+    margin-right: 40px;
+    box-sizing: border-box;
+}
+.boxitems{
+    margin-left: 50px;
+    margin-top: 70px;
+    box-sizing: border-box;
+}
+.division1 {
+    height: 30%;
+    background-color: #F1D5BB;
+    box-sizing: border-box;
+    margin-top: -70px;
+    margin-left: -50px;
+    padding: 130px;
+}
+.division1 h2{
+    margin-top: -120px;
+    font-size: 50px;
+    font-family: 'Mulish';
+    padding-bottom: 40px;
+    margin-left: -70px;
+}
+.division1 p{
+    font-family:'Mulish' ;
+    font-size: 30px;
+    margin-left:-63px ;
+    word-spacing: 30px;
+}
+ #bttn{
+    margin-left: -65px;
+    text-decoration: none;
+    padding-top: 60px;
+    margin-bottom: -80px;
+    margin-right: 40px;
+    
+}
+ #btn{
+    background-color: #000000;
+    color: #ffffff;
+    height: 90px;
+    width:400px ;
+    font-family:'Mulish' ;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px;
+cursor: pointer;
+ }
+ .division2 h2{
+    margin-top: 40px;
+    font-size: 50px;
+    font-family:'Mulish ';
+    padding-bottom:65px ;
+    margin-left: 65px;
+ }
+ input{
+    height: 78px;
+
+    width: 400px;
+    margin-left: 50px;
+    margin-top: -90px;
+    
+    margin-bottom: 50px;
+    box-sizing: border-box;
+    border-color: #F1D5BB;
+    font-family:'Mulish' ;
+    font-weight: 200;
+line-height:38px ;
+font-size: 30px;
+ }
+ #bn{
+    margin-left:50px;
+    margin-top: -30px;
+    margin-bottom:40px ;
+    margin-right
+    
+ }
+ #bnn{
+    background-color: #000000;
+    color: #ffffff;
+    height: 90px;
+    width:300px ;
+    font-family:'Mulish' ;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px;
+cursor: pointer;
+ }
+ 
