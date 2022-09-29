@@ -1,2 +1,2 @@
 # susshifoods
-https://iffhy.github.io.susshifoods/
+https://iffhy.github.io/susshifoods/
